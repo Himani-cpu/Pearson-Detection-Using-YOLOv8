@@ -28,12 +28,13 @@ Python – backend scripting and logic
 
 Follow these steps to set up and run the person detection app:
 
+
 #### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Himani-cpu/Person-Detection-Using-YOLOv8.git
 cd Person-Detection-Using-YOLOv8
 
-#### 2️⃣ Install Required Libraries
+**2️⃣ Install Required Libraries**
 
 bash
 pip install -r requirements.txt
