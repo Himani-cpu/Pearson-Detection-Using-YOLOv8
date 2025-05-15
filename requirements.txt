@@ -1,0 +1,7 @@
+# Requirements
+
+ultralytics
+insightface
+streamlit
+opencv-python-headless
+numpy
